@@ -1,0 +1,193 @@
+{
+  "cached_at": 1793897354.1919804,
+  "data": {
+    "username": "bittubunny",
+    "name": "Bharath Chelimalla",
+    "avatar_url": "https://avatars.githubusercontent.com/u/44095607?v=4",
+    "html_url": "https://github.com/bittubunny",
+    "bio": "Aspiring Web Developer and a Machine Learning Enthusiast , Intrested in the computer vision for object detection and more ....",
+    "public_repos_count": 16,
+    "followers": 1,
+    "following": 0,
+    "synced_at": "2026-11-05T16:49:14Z",
+    "is_live_sync": true,
+    "repositories": [
+      {
+        "name": "varahi-delivery-app",
+        "description": "Open-source software repository",
+        "language": "Kotlin",
+        "stars": 0,
+        "forks": 0,
+        "html_url": "https://github.com/bittubunny/varahi-delivery-app",
+        "pushed_at": "2026-11-03T07:42:51Z",
+        "updated_at": "2026-11-03T07:42:55Z",
+        "created_at": "2026-11-03T07:40:01Z"
+      },
+      {
+        "name": "weftin-project",
+        "description": "Open-source software repository",
+        "language": "JavaScript",
+        "stars": 1,
+        "forks": 0,
+        "html_url": "https://github.com/bittubunny/weftin-project",
+        "pushed_at": "2026-10-27T18:02:10Z",
+        "updated_at": "2026-10-27T18:02:14Z",
+        "created_at": "2026-10-05T09:22:07Z"
+      },
+      {
+        "name": "quiz-game",
+        "description": "Open-source software repository",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "html_url": "https://github.com/bittubunny/quiz-game",
+        "pushed_at": "2026-10-26T15:37:17Z",
+        "updated_at": "2026-10-26T15:37:22Z",
+        "created_at": "2026-10-26T07:45:07Z"
+      },
+      {
+        "name": "bittubunny",
+        "description": "Open-source software repository",
+        "language": "Code",
+        "stars": 0,
+        "forks": 0,
+        "html_url": "https://github.com/bittubunny/bittubunny",
+        "pushed_at": "2026-10-25T15:37:40Z",
+        "updated_at": "2026-10-25T15:37:44Z",
+        "created_at": "2026-05-04T12:43:23Z"
+      },
+      {
+        "name": "bharath-portfolio",
+        "description": "Open-source software repository",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "html_url": "https://github.com/bittubunny/bharath-portfolio",
+        "pushed_at": "2026-09-07T16:40:57Z",
+        "updated_at": "2026-09-07T16:41:04Z",
+        "created_at": "2026-05-17T12:19:14Z"
+      },
+      {
+        "name": "BLMS",
+        "description": "Open-source software repository",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "html_url": "https://github.com/bittubunny/BLMS",
+        "pushed_at": "2026-07-12T09:52:02Z",
+        "updated_at": "2026-07-12T09:52:12Z",
+        "created_at": "2025-12-23T16:27:22Z"
+      },
+      {
+        "name": "RAG_Implementation",
+        "description": "Open-source software repository",
+        "language": "Python",
+        "stars": 0,
+        "forks": 0,
+        "html_url": "https://github.com/bittubunny/RAG_Implementation",
+        "pushed_at": "2026-05-04T13:19:43Z",
+        "updated_at": "2026-05-04T13:19:47Z",
+        "created_at": "2026-05-04T13:11:16Z"
+      },
+      {
+        "name": "AI-in-Mental-Health",
+        "description": "Open-source software repository",
+        "language": "Jupyter Notebook",
+        "stars": 0,
+        "forks": 0,
+        "html_url": "https://github.com/bittubunny/AI-in-Mental-Health",
+        "pushed_at": "2026-03-24T17:28:41Z",
+        "updated_at": "2026-03-24T17:28:45Z",
+        "created_at": "2025-02-28T13:51:34Z"
+      },
+      {
+        "name": "gesture-app",
+        "description": "Open-source software repository",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "html_url": "https://github.com/bittubunny/gesture-app",
+        "pushed_at": "2026-01-29T17:35:14Z",
+        "updated_at": "2026-01-29T17:35:18Z",
+        "created_at": "2026-01-29T16:00:20Z"
+      },
+      {
+        "name": "jportal",
+        "description": "Open-source software repository",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "html_url": "https://github.com/bittubunny/jportal",
+        "pushed_at": "2025-12-29T15:55:30Z",
+        "updated_at": "2025-12-29T15:55:33Z",
+        "created_at": "2025-12-29T15:17:16Z"
+      },
+      {
+        "name": "SmartWave",
+        "description": "Open-source software repository",
+        "language": "Python",
+        "stars": 0,
+        "forks": 0,
+        "html_url": "https://github.com/bittubunny/SmartWave",
+        "pushed_at": "2025-01-03T15:37:35Z",
+        "updated_at": "2025-01-03T15:37:39Z",
+        "created_at": "2025-01-02T18:19:59Z"
+      },
+      {
+        "name": "Fraud-Detection-in-Banking-System",
+        "description": "Open-source software repository",
+        "language": "Jupyter Notebook",
+        "stars": 0,
+        "forks": 0,
+        "html_url": "https://github.com/bittubunny/Fraud-Detection-in-Banking-System",
+        "pushed_at": "2024-11-20T10:58:43Z",
+        "updated_at": "2024-11-20T10:58:47Z",
+        "created_at": "2024-09-30T15:13:24Z"
+      },
+      {
+        "name": "DetectFraud-Streamlit-App",
+        "description": "Open-source software repository",
+        "language": "Jupyter Notebook",
+        "stars": 0,
+        "forks": 0,
+        "html_url": "https://github.com/bittubunny/DetectFraud-Streamlit-App",
+        "pushed_at": "2024-11-20T10:46:27Z",
+        "updated_at": "2024-11-20T10:46:30Z",
+        "created_at": "2024-11-19T15:33:22Z"
+      },
+      {
+        "name": "Hand-Sign-Language-Recognition",
+        "description": "Open-source software repository",
+        "language": "Python",
+        "stars": 1,
+        "forks": 0,
+        "html_url": "https://github.com/bittubunny/Hand-Sign-Language-Recognition",
+        "pushed_at": "2024-09-04T12:37:50Z",
+        "updated_at": "2024-09-04T12:37:53Z",
+        "created_at": "2024-08-13T04:21:55Z"
+      },
+      {
+        "name": "CODSOFT",
+        "description": "Open-source software repository",
+        "language": "HTML",
+        "stars": 0,
+        "forks": 0,
+        "html_url": "https://github.com/bittubunny/CODSOFT",
+        "pushed_at": "2024-08-13T04:18:13Z",
+        "updated_at": "2024-08-13T04:18:16Z",
+        "created_at": "2024-07-28T10:58:38Z"
+      },
+      {
+        "name": "Stock-Price-Prediction1",
+        "description": "Open-source software repository",
+        "language": "Jupyter Notebook",
+        "stars": 0,
+        "forks": 0,
+        "html_url": "https://github.com/bittubunny/Stock-Price-Prediction1",
+        "pushed_at": "2024-07-29T05:44:22Z",
+        "updated_at": "2024-07-29T05:44:24Z",
+        "created_at": "2024-07-29T05:42:12Z"
+      }
+    ]
+  }
+}
